@@ -1,0 +1,15 @@
+{
+  "brand": "Sigran Com",
+  "email": null,
+  "phone": "+1 334 931 9729",
+  "salesPhone": "+1 334 931 9729",
+  "businessPhone": "+1 334 931 9729",
+  "accountEmailPublished": false,
+  "hours": "9:13 PM 8/7/26",
+  "supportCenter": "https://sigran-com.github.io/support.html",
+  "supportRequest": "https://sigran-com.github.io/support-request.html",
+  "helpCenter": "https://sigran-com.github.io/help-center.html",
+  "status": "https://sigran-com.github.io/status.html",
+  "trustCenter": "https://sigran-com.github.io/trust-center.html",
+  "github": "https://github.com/sigran-com"
+}

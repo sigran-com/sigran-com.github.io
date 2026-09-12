@@ -1,0 +1,350 @@
+[
+  {
+    "title": "Sigran Com — Every Call. Connected by Design.",
+    "h1": "Every Call. Connected by Design.",
+    "description": "Programmable voice, SIP connectivity, business calling, phone numbers, messaging, call routing, automation, and communications infrastructure.",
+    "path": "index.html"
+  },
+  {
+    "title": "Capabilities",
+    "h1": "Capabilities built to work together.",
+    "description": "Explore the complete capability system behind Sigran Com.",
+    "path": "services.html"
+  },
+  {
+    "title": "About",
+    "h1": "Built as a complete brand system.",
+    "description": "The direction, principles, and digital identity behind Sigran Com.",
+    "path": "about.html"
+  },
+  {
+    "title": "Approach",
+    "h1": "A deliberate path from idea to experience.",
+    "description": "How Sigran Com turns direction into a complete digital experience.",
+    "path": "approach.html"
+  },
+  {
+    "title": "Principles",
+    "h1": "The rules that keep the experience strong.",
+    "description": "The design and publishing principles used throughout Sigran Com.",
+    "path": "principles.html"
+  },
+  {
+    "title": "Insights",
+    "h1": "Ideas with enough depth to be useful.",
+    "description": "Ideas, frameworks, and practical thinking from the Sigran Com brand system.",
+    "path": "insights.html"
+  },
+  {
+    "title": "Resources",
+    "h1": "Useful paths through the brand.",
+    "description": "Explore the core resources and reference pages for Sigran Com.",
+    "path": "resources.html"
+  },
+  {
+    "title": "Support",
+    "h1": "Support, organized around the next useful action.",
+    "description": "Support center for Sigran Com.",
+    "path": "support.html"
+  },
+  {
+    "title": "Support Request",
+    "h1": "A better support request starts with the right context.",
+    "description": "Prepare a support request for Sigran Com.",
+    "path": "support-request.html"
+  },
+  {
+    "title": "Help Center",
+    "h1": "Find the right answer before opening a request.",
+    "description": "Help center for Sigran Com.",
+    "path": "help-center.html"
+  },
+  {
+    "title": "Getting Started",
+    "h1": "Start with context, then move to the right path.",
+    "description": "Getting started with Sigran Com.",
+    "path": "getting-started.html"
+  },
+  {
+    "title": "Service Status",
+    "h1": "Operational information without invented uptime.",
+    "description": "Operational status information for Sigran Com.",
+    "path": "status.html"
+  },
+  {
+    "title": "Search",
+    "h1": "Find the right page quickly.",
+    "description": "Search the Sigran Com website.",
+    "path": "search.html"
+  },
+  {
+    "title": "Trust Center",
+    "h1": "Trust is built from accurate information.",
+    "description": "Trust, security, privacy, accessibility, and support information for Sigran Com.",
+    "path": "trust-center.html"
+  },
+  {
+    "title": "FAQ",
+    "h1": "Questions, answered clearly.",
+    "description": "Frequently asked questions about Sigran Com and the structure of this website.",
+    "path": "faq.html"
+  },
+  {
+    "title": "Contact",
+    "h1": "Reach the right channel.",
+    "description": "Contact Sigran Com through verified public business channels.",
+    "path": "contact.html"
+  },
+  {
+    "title": "Site Map",
+    "h1": "Every important path, in one place.",
+    "description": "Complete site map for Sigran Com.",
+    "path": "sitemap.html"
+  },
+  {
+    "title": "Privacy",
+    "h1": "Privacy",
+    "description": "Privacy information for the Sigran Com website.",
+    "path": "privacy.html"
+  },
+  {
+    "title": "Terms",
+    "h1": "Terms",
+    "description": "Terms information for the Sigran Com website.",
+    "path": "terms.html"
+  },
+  {
+    "title": "Accessibility",
+    "h1": "Accessibility",
+    "description": "Accessibility information for the Sigran Com website.",
+    "path": "accessibility.html"
+  },
+  {
+    "title": "Security",
+    "h1": "Security",
+    "description": "Security information for the Sigran Com website.",
+    "path": "security.html"
+  },
+  {
+    "title": "Acceptable Use",
+    "h1": "Use public resources responsibly.",
+    "description": "Acceptable-use framework for the Sigran Com website and public resources.",
+    "path": "acceptable-use.html"
+  },
+  {
+    "title": "Page not found",
+    "h1": "That page isn’t here.",
+    "description": "The requested page could not be found on Sigran Com.",
+    "path": "404.html"
+  },
+  {
+    "title": "Platform",
+    "h1": "Platform",
+    "description": "Sigran Com Platform. One communications layer for voice, routing, numbers, messaging, automation, developer workflows, support, and operational visibility.",
+    "path": "platform.html"
+  },
+  {
+    "title": "Programmable Voice",
+    "h1": "Programmable Voice",
+    "description": "Sigran Com Programmable Voice. Build application-controlled calling experiences with programmable call control, events, webhooks, media actions, and clear operational boundaries.",
+    "path": "voice-api.html"
+  },
+  {
+    "title": "SIP Trunking",
+    "h1": "SIP Trunking",
+    "description": "Sigran Com SIP Trunking. Connect PBX, contact-center, and communications systems through a SIP-oriented architecture designed for clear routing and operations.",
+    "path": "sip-trunking.html"
+  },
+  {
+    "title": "Phone Numbers",
+    "h1": "Phone Numbers",
+    "description": "Sigran Com Phone Numbers. Organize number provisioning, assignment, lifecycle, routing, and application ownership without publishing unverified inventory or coverage claims.",
+    "path": "phone-numbers.html"
+  },
+  {
+    "title": "Messaging",
+    "h1": "Messaging",
+    "description": "Sigran Com Messaging. Prepare a communications experience that can grow to include messaging workflows alongside voice when real messaging services are configured.",
+    "path": "messaging.html"
+  },
+  {
+    "title": "Contact Center",
+    "h1": "Contact Center",
+    "description": "Sigran Com Contact Center. Structure inbound and outbound calling, queueing, agent workflows, escalation, support, and operational context as one experience.",
+    "path": "contact-center.html"
+  },
+  {
+    "title": "AI Voice &amp; Automation",
+    "h1": "AI Voice &amp; Automation",
+    "description": "Sigran Com AI Voice &amp; Automation. Design AI-assisted voice workflows with clear handoff, routing, observability, recordings, and human control.",
+    "path": "ai-voice.html"
+  },
+  {
+    "title": "Call Routing",
+    "h1": "Call Routing",
+    "description": "Sigran Com Call Routing. Map inbound and outbound call paths, policies, failover, queues, destinations, and application logic in a way teams can understand.",
+    "path": "call-routing.html"
+  },
+  {
+    "title": "IVR &amp; Call Flows",
+    "h1": "IVR &amp; Call Flows",
+    "description": "Sigran Com IVR &amp; Call Flows. Build menu, prompt, routing, verification, escalation, and self-service call flows without hiding the path to a human when one is required.",
+    "path": "ivr.html"
+  },
+  {
+    "title": "Call Recording",
+    "h1": "Call Recording",
+    "description": "Sigran Com Call Recording. Prepare recording workflows, retention boundaries, access control, consent considerations, and retrieval paths without making legal or compliance claims.",
+    "path": "call-recording.html"
+  },
+  {
+    "title": "Voice Analytics",
+    "h1": "Voice Analytics",
+    "description": "Sigran Com Voice Analytics. Create an operational view for call events, routing, quality signals, usage, errors, and support without inventing performance metrics.",
+    "path": "analytics.html"
+  },
+  {
+    "title": "Developers",
+    "h1": "Developers",
+    "description": "Sigran Com Developers. Give engineering teams a clear path through APIs, webhooks, authentication, quick starts, examples, and operational guidance.",
+    "path": "developers.html"
+  },
+  {
+    "title": "Documentation",
+    "h1": "Documentation",
+    "description": "Sigran Com Documentation. Organize voice, SIP, numbers, messaging, webhooks, errors, security, and support documentation into a navigable technical center.",
+    "path": "documentation.html"
+  },
+  {
+    "title": "API Authentication",
+    "h1": "API Authentication",
+    "description": "Sigran Com API Authentication. Explain how applications should separate public client code from server-side credentials and keep provider secrets out of repositories and browsers.",
+    "path": "authentication.html"
+  },
+  {
+    "title": "Webhooks",
+    "h1": "Webhooks",
+    "description": "Sigran Com Webhooks. Prepare secure event endpoints for call initiated, ringing, answered, ended, recording, message, and operational events.",
+    "path": "webhooks.html"
+  },
+  {
+    "title": "SDKs &amp; Tools",
+    "h1": "SDKs &amp; Tools",
+    "description": "Sigran Com SDKs &amp; Tools. Create a developer-experience surface for future SDKs, examples, command-line tools, test environments, and integration references.",
+    "path": "sdks.html"
+  },
+  {
+    "title": "Quick Start",
+    "h1": "Quick Start",
+    "description": "Sigran Com Quick Start. Walk from account configuration to a first test call architecture without publishing credentials, personal account data, or fake production results.",
+    "path": "quick-start.html"
+  },
+  {
+    "title": "Integrations",
+    "h1": "Integrations",
+    "description": "Sigran Com Integrations. Map PBX, CRM, help desk, contact-center, workflow, analytics, and application integrations around the communications layer.",
+    "path": "integrations.html"
+  },
+  {
+    "title": "Global Connectivity",
+    "h1": "Global Connectivity",
+    "description": "Sigran Com Global Connectivity. Present a global communications architecture while reserving actual countries, inventory, carrier routes, emergency calling, and availability for verified provider data.",
+    "path": "coverage.html"
+  },
+  {
+    "title": "Pricing",
+    "h1": "Pricing",
+    "description": "Sigran Com Pricing. Provide a professional pricing structure without inventing per-minute rates, number fees, discounts, taxes, or destination pricing.",
+    "path": "pricing.html"
+  },
+  {
+    "title": "Industries",
+    "h1": "Industries",
+    "description": "Sigran Com Industries. Show how programmable communications can support customer service, software platforms, operations, sales, logistics, and other real use cases.",
+    "path": "industries.html"
+  },
+  {
+    "title": "Solutions",
+    "h1": "Solutions",
+    "description": "Sigran Com Solutions. Connect voice, routing, numbers, automation, developer workflows, and support into practical communications solutions.",
+    "path": "solutions.html"
+  },
+  {
+    "title": "Voice Glossary",
+    "h1": "Voice Glossary",
+    "description": "Sigran Com Voice Glossary. A practical reference for SIP, PSTN, DID, IVR, call control, webhooks, codecs, routing, provisioning, and other communications concepts.",
+    "path": "voice-glossary.html"
+  },
+  {
+    "title": "Provider Architecture",
+    "h1": "Provider Architecture",
+    "description": "Sigran Com Provider Architecture. Understand the separation between the public website, application backend, communications provider, SIP/PSTN layer, and private credentials.",
+    "path": "provider-architecture.html"
+  },
+  {
+    "title": "Voice Platform Capability",
+    "h1": "Voice Platform",
+    "description": "Sigran Com — Voice Platform. Voice Platform is treated as part of the complete Sigran Com experience — designed to simplify the system while keeping the experience clear, useful, and maintainable.",
+    "path": "voice-platform.html"
+  },
+  {
+    "title": "Connectivity Capability",
+    "h1": "Connectivity",
+    "description": "Sigran Com — Connectivity. Connectivity is treated as part of the complete Sigran Com experience — designed to shape the system while keeping the experience clear, useful, and maintainable.",
+    "path": "connectivity.html"
+  },
+  {
+    "title": "Numbers &amp; Routing Capability",
+    "h1": "Numbers &amp; Routing",
+    "description": "Sigran Com — Numbers &amp; Routing. Numbers &amp; Routing is treated as part of the complete Sigran Com experience — designed to strengthen the system while keeping the experience clear, useful, and maintainable.",
+    "path": "numbers-and-routing.html"
+  },
+  {
+    "title": "Automation Capability",
+    "h1": "Automation",
+    "description": "Sigran Com — Automation. Automation is treated as part of the complete Sigran Com experience — designed to shape the system while keeping the experience clear, useful, and maintainable.",
+    "path": "automation.html"
+  },
+  {
+    "title": "Messaging Capability",
+    "h1": "Messaging",
+    "description": "Sigran Com — Messaging. Messaging is treated as part of the complete Sigran Com experience — designed to simplify the system while keeping the experience clear, useful, and maintainable.",
+    "path": "capability-messaging.html"
+  },
+  {
+    "title": "Contact Center Capability",
+    "h1": "Contact Center",
+    "description": "Sigran Com — Contact Center. Contact Center is treated as part of the complete Sigran Com experience — designed to simplify the system while keeping the experience clear, useful, and maintainable.",
+    "path": "capability-contact-center.html"
+  },
+  {
+    "title": "Developer Experience Capability",
+    "h1": "Developer Experience",
+    "description": "Sigran Com — Developer Experience. Developer Experience is treated as part of the complete Sigran Com experience — designed to connect the system while keeping the experience clear, useful, and maintainable.",
+    "path": "developer-experience.html"
+  },
+  {
+    "title": "Trust &amp; Operations Capability",
+    "h1": "Trust &amp; Operations",
+    "description": "Sigran Com — Trust &amp; Operations. Trust &amp; Operations is treated as part of the complete Sigran Com experience — designed to clarify the system while keeping the experience clear, useful, and maintainable.",
+    "path": "trust-and-operations.html"
+  },
+  {
+    "title": "Designing a reliable call flow",
+    "h1": "Designing a reliable call flow",
+    "description": "How ingress, routing, application logic, failover, observability, and human escalation fit together in a modern voice experience.",
+    "path": "insight-1.html"
+  },
+  {
+    "title": "SIP and APIs belong in the same architecture",
+    "h1": "SIP and APIs belong in the same architecture",
+    "description": "Why communications teams benefit when SIP connectivity, programmable call control, webhooks, and developer tooling share one operating model.",
+    "path": "insight-2.html"
+  },
+  {
+    "title": "Voice automation needs clear boundaries",
+    "h1": "Voice automation needs clear boundaries",
+    "description": "A practical approach to IVR, AI-assisted voice workflows, recordings, routing rules, and human handoff without losing operational control.",
+    "path": "insight-3.html"
+  }
+]

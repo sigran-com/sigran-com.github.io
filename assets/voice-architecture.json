@@ -1,0 +1,15 @@
+{
+  "brand": "Sigran Com",
+  "layers": [
+    "Public website",
+    "Application backend",
+    "Voice API / SIP",
+    "Routing & webhooks",
+    "Communications provider",
+    "PSTN / SIP destinations",
+    "Events & operations"
+  ],
+  "publicAccountEmailPublished": false,
+  "provider": "Telnyx setup mode enabled",
+  "secretPolicy": "Provider credentials must remain server-side and must never be embedded in public website assets."
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Sigran Com",
+  "category": "Voice & Communications",
+  "tagline": "Every Call. Connected by Design.",
+  "description": "Programmable voice, SIP connectivity, business calling, phone numbers, messaging, call routing, automation, and communications infrastructure.",
+  "colors": [
+    "#05070a",
+    "#f5f8fb",
+    "#37d5ff",
+    "#7367ff",
+    "#8a98aa",
+    "#0d141d"
+  ],
+  "capabilities": [
+    "Voice Platform",
+    "Connectivity",
+    "Numbers & Routing",
+    "Automation",
+    "Messaging",
+    "Contact Center",
+    "Developer Experience",
+    "Trust & Operations"
+  ],
+  "support": {
+    "email": null,
+    "phone": "+1 334 931 9729",
+    "salesPhone": "+1 334 931 9729",
+    "businessPhone": "+1 334 931 9729",
+    "hours": "9:13 PM 8/7/26",
+    "center": "https://sigran-com.github.io/support.html"
+  },
+  "privacy": {
+    "connectedAccountEmailPublished": false
+  },
+  "telnyxMode": true,
+  "generatedBy": "BrandForge Autopilot V12 Telnyx Voice Site Builder"
+}
